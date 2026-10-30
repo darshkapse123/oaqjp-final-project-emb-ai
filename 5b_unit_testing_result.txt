@@ -1,0 +1,8 @@
+test_api_connection_error (test_emotion_detection.TestEmotionDetector.test_api_connection_error) ... ok
+test_emotion_detector_success (test_emotion_detection.TestEmotionDetector.test_emotion_detector_success) ... ok
+test_empty_text (test_emotion_detection.TestEmotionDetector.test_empty_text) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.001s
+
+OK
